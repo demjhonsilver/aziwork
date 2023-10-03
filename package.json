@@ -1,0 +1,30 @@
+{
+  "name": "aziwork",
+  "version": "0.0.1",
+  "description": "A simple HTTP client library that serves as a wrapper for making HTTP requests based on XMLHttpRequest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "types/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demjhonsilver/aziwork.git"
+  },
+  "keywords": [
+    "http",
+    "http request",
+    "client",
+    "XMLHttpRequest",
+    "API",
+    "web service",
+    "RESTful",
+    "CRUD"
+  ],
+  "bugs": {
+    "url": "https://github.com/demjhonsilver/aziwork/issues"
+  },
+  "homepage": "https://github.com/demjhonsilver/aziwork",
+  "author": "Demjhon Silver",
+  "license": "MIT"
+}
