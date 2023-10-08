@@ -1,6 +1,6 @@
 {
   "name": "aziwork",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A simple HTTP client library that serves as a wrapper for making HTTP requests based on XMLHttpRequest.",
   "main": "index.js",
   "scripts": {
